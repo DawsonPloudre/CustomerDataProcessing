@@ -1,3 +1,5 @@
 Make sure to update python using "python.exe -m pip install --upgrade pip --user" in terminal
 Install pandas using "pip3 install pandas" in terminal
 Install myplotlib using "pip3 install myplotlib" in terminal
+
+Can manually input user data in the CSV file if needed, or can generate random user data by running the Rand_CSV.py file.
